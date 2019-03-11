@@ -110,11 +110,11 @@ html {
     display: block;
     text-align: center;
     padding-top: 12px;
-} */
+}
 .black {
     background-color: black;
-    /* padding-bottom: 200px; */
-}
+    /* padding-bottom: 200px;
+} */
 body,
 html {
   position: relative;
@@ -285,3 +285,15 @@ html {
 .neon {
     padding-top: 250px;
 }
+.footer {
+    background-color: black;
+    min-height: 200px;
+}
+/* .facebook {
+    padding-top: 150px;
+    text-align: center;
+}
+ .social {
+    background: #e3fc00;
+    height: 16px;
+} */

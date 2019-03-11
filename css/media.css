@@ -13,6 +13,9 @@
         min-width: 540px;
         max-width: 939px;
     }
+    .container {
+        display: none;
+    }
     .header-content {
         margin: 0 auto;
         /* display: flex; */
